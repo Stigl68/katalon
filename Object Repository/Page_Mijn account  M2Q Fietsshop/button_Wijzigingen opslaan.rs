@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Wijzigingen opslaan</name>
+   <tag></tag>
+   <elementGuidId>4aa5f280-188b-4c0f-976e-6c7bebb939ba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button[name=&quot;save_account_details&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@name='save_account_details']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f342f460-354c-4628-be56-5f034975d7dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>0008165e-5104-46fa-adbb-b66801b9073e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>woocommerce-Button button</value>
+      <webElementGuid>431032f6-aa07-49f2-915c-4095763794aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>save_account_details</value>
+      <webElementGuid>f6e5b698-ce79-4da7-be85-3e560586a1f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Wijzigingen opslaan</value>
+      <webElementGuid>0b03e741-55b4-4280-b8f4-4797460fa12c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Wijzigingen opslaan</value>
+      <webElementGuid>f80fa7fc-0dbe-4dee-a12e-fe46bed6e10c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;container single-page-container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;nv-single-page-wrap col&quot;]/div[@class=&quot;nv-content-wrap entry-content&quot;]/div[@class=&quot;woocommerce&quot;]/div[@class=&quot;woocommerce-MyAccount-content&quot;]/form[@class=&quot;woocommerce-EditAccountForm edit-account&quot;]/p[5]/button[@class=&quot;woocommerce-Button button&quot;]</value>
+      <webElementGuid>f074ca51-3796-4f47-94f2-f1399584be90</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@name='save_account_details']</value>
+      <webElementGuid>5d3d969a-d8a9-48e8-aef1-424675b367f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='content']/div/div/div/div[2]/div/div/form/p[5]/button</value>
+      <webElementGuid>59c5907b-b5ad-4830-a71c-49ece79c2cf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bevestig nieuw wachtwoord'])[1]/following::button[1]</value>
+      <webElementGuid>8169361d-b0ee-41d5-b303-1097a5d463e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nieuw wachtwoord (laat leeg om niet te wijzigen)'])[1]/following::button[1]</value>
+      <webElementGuid>f6bf772f-1c81-425f-8e81-09846630cce1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Neve'])[1]/preceding::button[1]</value>
+      <webElementGuid>fb68bf0f-623b-4cbd-b8f1-b44b71757366</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WordPress'])[1]/preceding::button[1]</value>
+      <webElementGuid>65f50b55-5f5d-4777-acdd-bd3b9c25a14a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Wijzigingen opslaan']/parent::*</value>
+      <webElementGuid>585df5ca-f348-4680-bd3c-92bfbce5d359</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[5]/button</value>
+      <webElementGuid>35937188-dd87-4586-be5a-6ee461b5bef3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and @name = 'save_account_details' and (text() = 'Wijzigingen opslaan' or . = 'Wijzigingen opslaan')]</value>
+      <webElementGuid>7f103d79-9374-40d0-aa4a-6cd407bbbd94</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

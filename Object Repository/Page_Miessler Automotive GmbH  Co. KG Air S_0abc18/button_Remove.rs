@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Remove</name>
+   <tag></tag>
+   <elementGuidId>c5acd74d-d751-47e7-bc8a-f74a3ecb1a9b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button[name=&quot;dropPos&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@name='dropPos']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4699fcb0-b427-48a3-b388-e6d00b4513a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>b90b6d0e-f6cf-418c-9412-63c396444d24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn cart-items-delete-button droppos btn-link btn-sm</value>
+      <webElementGuid>348b6291-c65d-4a01-b680-f5dc20fe8786</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Remove</value>
+      <webElementGuid>1b7c3cda-5e08-4b00-a2a1-dceb70829e8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>dropPos</value>
+      <webElementGuid>7452da6d-f2f2-4521-ab54-c3057b7e5e64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>0d9b1420-6712-4815-9476-41acad6f29a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                Remove
+                                        
+</value>
+      <webElementGuid>ef514b62-f59b-4094-ac44-ba539a3fb29c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cart-form&quot;)/div[@class=&quot;basket-items&quot;]/div[@class=&quot;row cart-items-body type-1&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;row align-items-baseline&quot;]/div[@class=&quot;col cart-items-delete col-12&quot;]/button[@class=&quot;btn cart-items-delete-button droppos btn-link btn-sm&quot;]</value>
+      <webElementGuid>9c3372e9-aa52-43d1-83ba-b8c80c321dcb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@name='dropPos']</value>
+      <webElementGuid>aa8ec2ac-478e-4591-9402-a9fd3385a667</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='cart-form']/div/div[2]/div[2]/div/div[6]/button[2]</value>
+      <webElementGuid>3f8332b3-0b7d-4906-bbce-798b802f5ecd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='On wish list'])[1]/following::button[1]</value>
+      <webElementGuid>6dec60ea-b376-40c7-b75f-7a37b447f721</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Determine shipping costs for current basket to:'])[1]/preceding::button[1]</value>
+      <webElementGuid>aeea221d-58b7-474b-a3b0-c9b2a55d7a0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Postal code'])[1]/preceding::button[1]</value>
+      <webElementGuid>6749b638-c52b-4ad5-b9dd-66c9e770d6bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Remove']/parent::*</value>
+      <webElementGuid>5799bc65-2b99-4ea0-8078-2201b6b13c9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>7549c97e-e721-40e8-ac10-a0473f7d3284</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and @title = 'Remove' and @name = 'dropPos' and (text() = '
+                                                Remove
+                                        
+' or . = '
+                                                Remove
+                                        
+')]</value>
+      <webElementGuid>c5cc3f78-cc80-4f24-b535-92b03a2faba2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipping weight:'])[1]/following::button[2]</value>
+      <webElementGuid>38f4a94c-5e9e-4996-ac15-499a18f96e71</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

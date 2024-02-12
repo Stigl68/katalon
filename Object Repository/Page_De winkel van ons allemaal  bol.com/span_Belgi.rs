@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Belgi</name>
+   <tag></tag>
+   <elementGuidId>1bcd8ce6-4ebb-4bc4-9fba-8e9827941f37</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.c-radio__label.js-country-belgium</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//wsp-modal-window[@id='modalWindow']/div[2]/div[2]/wsp-country-language-modal/div/p[2]/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d4bbc530-1aff-4dae-b1f7-b44d23506634</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>c-radio__label js-country-belgium</value>
+      <webElementGuid>617d5742-e7df-4722-a62a-46fa1318d9d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>België</value>
+      <webElementGuid>67afdc22-6573-4368-bf34-fa524f311268</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modalWindow&quot;)/div[@class=&quot;modal__window js_modal_window&quot;]/div[@class=&quot;modal__window__content js_modal_content&quot;]/wsp-country-language-modal[1]/div[@class=&quot;u-mb&quot;]/p[@class=&quot;u-mb--0 u-pb--xs u-pt--xs c-media c-media--center&quot;]/label[@class=&quot;u-pr--sm c-radio u-mt--0&quot;]/span[@class=&quot;c-radio__label js-country-belgium&quot;]</value>
+      <webElementGuid>91fe143c-fce4-462c-a6a1-bd1be5f86b9b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//wsp-modal-window[@id='modalWindow']/div[2]/div[2]/wsp-country-language-modal/div/p[2]/label/span</value>
+      <webElementGuid>3c1fd7b2-cef4-4ad1-8c8d-3f36d7636a3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nederland'])[1]/following::span[2]</value>
+      <webElementGuid>8747bc9e-f47d-4e14-a833-ebad597ea761</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Land'])[1]/following::span[4]</value>
+      <webElementGuid>f9154f59-e75c-403e-a42d-cd2e35f44f61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Taal'])[1]/preceding::span[2]</value>
+      <webElementGuid>0eac5cb0-7ac7-416b-928b-06a2b6438c7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nederlands'])[1]/preceding::span[2]</value>
+      <webElementGuid>af3b7c7b-ff06-4d4b-8fd6-dd67a19b7c1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='België']/parent::*</value>
+      <webElementGuid>ac7e395d-11dd-4d4c-93f6-e76b2b6ce037</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]/label/span</value>
+      <webElementGuid>83cfba9f-7fcc-4edb-80d7-f2b7c2ecb2be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'België' or . = 'België')]</value>
+      <webElementGuid>2436fb1b-1da8-48a3-bd04-c7208b506367</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

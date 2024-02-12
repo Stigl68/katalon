@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Anmelden</name>
+   <tag></tag>
+   <elementGuidId>0ed8b678-409b-40ee-a560-ca747635715d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#65c9d1b480ff7 > div > button.btn.btn-primary.btn-block</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@value='1']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a107569e-ae05-42ec-a7cb-a5b49be03cda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>580a16e4-5b00-4aff-ac91-0ba7d6f469d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn  btn-primary btn-block</value>
+      <webElementGuid>e32e2a21-f862-428e-8fcb-92cc771c39bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>316b8d5c-62cc-4622-81a8-8d260591d9bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                Anmelden
+                                        
+</value>
+      <webElementGuid>fe0d66b0-0655-443e-9530-6fa148d54ab2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;65c9d1b480ff7&quot;)/div[1]/button[@class=&quot;btn  btn-primary btn-block&quot;]</value>
+      <webElementGuid>72925566-fd87-42c7-97ee-b76d4b25820f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@value='1']</value>
+      <webElementGuid>ae69ba25-8ec1-4dd6-8fe2-c635910fee2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='65c9d1b480ff7']/div/button</value>
+      <webElementGuid>d23f6365-a00c-4591-ab1e-b8dba457b819</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Passwort'])[2]/following::button[1]</value>
+      <webElementGuid>0e7ea79f-7196-4d8b-9a97-116bc0ca3028</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='E-Mail-Adresse'])[2]/following::button[1]</value>
+      <webElementGuid>58166104-0e93-4752-be9f-8ba0dbff5997</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jetzt registrieren!'])[2]/preceding::button[1]</value>
+      <webElementGuid>d436dede-498b-47cb-9bfb-e0110d926bed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/form/fieldset/fieldset/div/button</value>
+      <webElementGuid>8f71fcea-af07-4ff4-a92d-b72fd7470803</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = '
+                                                Anmelden
+                                        
+' or . = '
+                                                Anmelden
+                                        
+')]</value>
+      <webElementGuid>db2a2437-334d-41a0-9a78-577ec8d1653f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='65c9d05542d45']/div/button</value>
+      <webElementGuid>4fb1c981-5c6c-4083-840d-a4dac15bca60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='65c9c4cd18e4f']/div/button</value>
+      <webElementGuid>d7e831dc-a831-473b-81fc-6c3974f81797</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='65c4e7ceec544']/div/button</value>
+      <webElementGuid>6b034b74-5521-4fea-9f19-017643af8f23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='65c4e6a3f3269']/div/button</value>
+      <webElementGuid>57bcada0-f399-4509-9915-5e9b02cfd7a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

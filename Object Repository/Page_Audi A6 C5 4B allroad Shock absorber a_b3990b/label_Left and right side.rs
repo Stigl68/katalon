@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Left and right side</name>
+   <tag></tag>
+   <elementGuidId>8d38d356-c9a2-4614-b934-c14b81a18c9c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product-offer']/div[2]/div/div[3]/div[2]/div/dl/div/dd/div[3]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>527c65f9-f32f-40ac-8b57-90e4d081b368</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>variation custom-control-label d-flex</value>
+      <webElementGuid>893c87ce-838f-4c35-b0cf-af8d0858d05e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>vt3370</value>
+      <webElementGuid>3a3bc53f-f39b-405c-96b3-20acef124ff8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-type</name>
+      <type>Main</type>
+      <value>radio</value>
+      <webElementGuid>a6ff40ac-17ed-4268-a45d-7ac5858862e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-original</name>
+      <type>Main</type>
+      <value>Left and right side</value>
+      <webElementGuid>2ae69e7f-fbbb-4878-8732-5b4fe565c97e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-key</name>
+      <type>Main</type>
+      <value>2281</value>
+      <webElementGuid>3e3fc3fa-a754-4508-ad98-096fbf273af3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-value</name>
+      <type>Main</type>
+      <value>3370</value>
+      <webElementGuid>086b0e02-a02b-4065-b7b3-421712536d7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ref</name>
+      <type>Main</type>
+      <value>11399</value>
+      <webElementGuid>a4177614-92f3-4065-b850-a05c9e3b8d7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+        Left and right side
+</value>
+      <webElementGuid>261044ba-9ea3-4474-8ae4-d01fd662a50d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-offer&quot;)/div[@class=&quot;col product-info col-lg-6 col-12&quot;]/div[@class=&quot;product-info-inner&quot;]/div[@class=&quot;product-offer&quot;]/div[@class=&quot;row variations switch-variations&quot;]/div[@class=&quot;col&quot;]/dl[1]/div[@class=&quot;vaiation-wrapper&quot;]/dd[@class=&quot;form-group text-left-util&quot;]/div[@class=&quot;custom-control custom-radio&quot;]/label[@class=&quot;variation custom-control-label d-flex&quot;]</value>
+      <webElementGuid>666f4496-d14a-42e0-9c0f-eb24376cd4ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-offer']/div[2]/div/div[3]/div[2]/div/dl/div/dd/div[3]/label</value>
+      <webElementGuid>090f7c7a-4d5c-453d-b17c-7cfd57ddf42d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Right side'])[1]/following::label[1]</value>
+      <webElementGuid>3c6d98ca-330a-4b66-a0b8-1b7e876323d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Left side'])[1]/following::label[2]</value>
+      <webElementGuid>1f8a3000-70d5-498f-afc8-5dfb1c2da6b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='from'])[1]/preceding::label[1]</value>
+      <webElementGuid>c52f9a88-9b36-4775-9a31-a8a489067800</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TecDoc Catalog'])[1]/preceding::label[1]</value>
+      <webElementGuid>e44890cb-d92b-4adc-badc-ffb473ba7e10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Left and right side']/parent::*</value>
+      <webElementGuid>379a9bc1-21cb-4aba-839d-8e494992e76e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/label</value>
+      <webElementGuid>49c8f9a8-b229-43de-8221-0da417ef24ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '
+        Left and right side
+' or . = '
+        Left and right side
+')]</value>
+      <webElementGuid>e77e4f3b-76ec-4086-a90e-c6e19ec5acd3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
