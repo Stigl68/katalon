@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>415df5c3-3172-41dc-97a1-dafcbffe469f</webElementGuid>
+      <webElementGuid>8ad2c088-b740-4437-baaf-3feacebfcf5a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>https://m2qfietsshop.be/?page_id=166&amp;view-order=497</value>
-      <webElementGuid>67270838-2f74-4c8b-930d-41edf518b0f6</webElementGuid>
+      <value>https://m2qfietsshop.be/?page_id=166&amp;view-order=502</value>
+      <webElementGuid>92a01004-8014-4b63-98e0-dd20223b14c5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>woocommerce-button button view</value>
-      <webElementGuid>37f650c2-5e2a-40c1-bfba-87e9aaf3f51a</webElementGuid>
+      <webElementGuid>48847f7a-a303-424e-a143-480de6b9ec41</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Bekijk</value>
-      <webElementGuid>0a99e652-4000-412e-812e-e67d588d281e</webElementGuid>
+      <webElementGuid>8b90ce41-925f-436b-a474-3394a6d90c1d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;content&quot;)/div[@class=&quot;container single-page-container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;nv-single-page-wrap col&quot;]/div[@class=&quot;nv-content-wrap entry-content&quot;]/div[@class=&quot;woocommerce&quot;]/div[@class=&quot;woocommerce-MyAccount-content&quot;]/table[@class=&quot;woocommerce-orders-table woocommerce-MyAccount-orders shop_table shop_table_responsive my_account_orders account-orders-table&quot;]/tbody[1]/tr[@class=&quot;woocommerce-orders-table__row woocommerce-orders-table__row--status-processing order&quot;]/td[@class=&quot;woocommerce-orders-table__cell woocommerce-orders-table__cell-order-actions&quot;]/a[@class=&quot;woocommerce-button button view&quot;]</value>
-      <webElementGuid>93e7583c-b4e5-479c-b152-fd653ab96e15</webElementGuid>
+      <webElementGuid>d2b91526-3826-40d8-ab65-a81b1eaa3e7c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//main[@id='content']/div/div/div/div[2]/div/div/table/tbody/tr/td[5]/a</value>
-      <webElementGuid>5c7adb1c-bfdd-4d6d-b55b-57b155cb3e11</webElementGuid>
+      <webElementGuid>009ef8dc-3e1f-4a36-8005-1caa60660dc9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Bekijk')]</value>
-      <webElementGuid>d9a7a1e9-88bd-4d5f-80ea-7dcc9c63e1a7</webElementGuid>
+      <webElementGuid>461565ee-6961-42ca-a26c-3fddcb624b75</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,55 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='€'])[1]/following::a[1]</value>
-      <webElementGuid>22847de4-0bbf-4375-8394-4eead8714083</webElementGuid>
+      <webElementGuid>02ce2acc-a844-46e5-bfb6-85fc1e34d5a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#501'])[1]/preceding::a[1]</value>
+      <webElementGuid>58bf1ef4-7dfc-4659-94c4-4c591121980d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='In behandeling'])[2]/preceding::a[2]</value>
+      <webElementGuid>9fa9d215-fcfb-4e75-b8a7-7bde9c83c763</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Bekijk']/parent::*</value>
+      <webElementGuid>1c69e041-3691-4698-89ee-5ad3a670756b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://m2qfietsshop.be/?page_id=166&amp;view-order=502')])[2]</value>
+      <webElementGuid>79c11ba8-b8e1-49a6-bbaa-543d560b8ffb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/a</value>
+      <webElementGuid>8b1b2726-71d2-4814-a481-ccd2832c6f8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://m2qfietsshop.be/?page_id=166&amp;view-order=502' and (text() = 'Bekijk' or . = 'Bekijk')]</value>
+      <webElementGuid>50c056d7-47b0-4adc-867d-003f6f5683b7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,26 +147,10 @@
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Bekijk']/parent::*</value>
-      <webElementGuid>434b9a19-14d1-49bb-bd0c-4babec04acf2</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, 'https://m2qfietsshop.be/?page_id=166&amp;view-order=497')])[2]</value>
       <webElementGuid>2050e720-0b26-4ff7-89e8-a5a3730b4891</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//td[5]/a</value>
-      <webElementGuid>ec4dc400-7f65-4374-9cac-b290b7042de6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

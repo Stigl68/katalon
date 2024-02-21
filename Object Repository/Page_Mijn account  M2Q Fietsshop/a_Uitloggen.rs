@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>4de1280e-ddc1-4549-9d49-7a907f1309e1</webElementGuid>
+      <webElementGuid>0896ca36-b21a-4c85-891c-5536eb22e86f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>https://m2qfietsshop.be/?page_id=166&amp;customer-logout&amp;_wpnonce=3b3415e0dd</value>
-      <webElementGuid>7711a4da-10a4-4f4b-963f-a4b89d803cd9</webElementGuid>
+      <value>https://m2qfietsshop.be/?page_id=166&amp;customer-logout&amp;_wpnonce=8383ffa10d</value>
+      <webElementGuid>7bd5ab4e-f5e0-400c-be10-eb8f4d4c5244</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Uitloggen</value>
-      <webElementGuid>8b7cb431-be3d-456f-b52a-5f93a2c4075d</webElementGuid>
+      <webElementGuid>227c752c-a09a-47a0-8cb2-9edd559b600c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;content&quot;)/div[@class=&quot;container single-page-container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;nv-single-page-wrap col&quot;]/div[@class=&quot;nv-content-wrap entry-content&quot;]/div[@class=&quot;woocommerce&quot;]/nav[@class=&quot;woocommerce-MyAccount-navigation&quot;]/ul[1]/li[@class=&quot;woocommerce-MyAccount-navigation-link woocommerce-MyAccount-navigation-link--customer-logout&quot;]/a[1]</value>
-      <webElementGuid>47a22dcd-a076-4588-8813-97907b66d8a4</webElementGuid>
+      <webElementGuid>958075cc-ac21-4118-8e7e-f4c45c24ac1e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//main[@id='content']/div/div/div/div[2]/div/nav/ul/li[6]/a</value>
-      <webElementGuid>dd642c4d-406b-44b6-a2e5-4d35c7eda9d3</webElementGuid>
+      <webElementGuid>667e7c92-bd41-4df2-891a-40b06be52f44</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'Uitloggen')])[3]</value>
-      <webElementGuid>83c35d2c-0284-4fa3-b8ab-e36f8502185a</webElementGuid>
+      <webElementGuid>af5a113d-0ba7-4b6c-bff9-2d1e83507004</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Accountgegevens'])[3]/following::a[1]</value>
-      <webElementGuid>aace4910-c43c-475a-9eec-b6097216cbcb</webElementGuid>
+      <webElementGuid>3238cfc5-5a2d-47b6-a7ad-531def9ddb86</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,47 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Adressen'])[1]/following::a[2]</value>
-      <webElementGuid>4e376e0c-bb88-46f1-af4e-69c2c218931e</webElementGuid>
+      <webElementGuid>134abc9e-498f-43a3-8cf9-68c2bdfffd6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='In behandeling'])[1]/preceding::a[1]</value>
+      <webElementGuid>90227cc8-de61-4f16-9403-f10309c5f5a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bestelgegevens'])[1]/preceding::a[1]</value>
+      <webElementGuid>bbb93932-bb5d-490f-ab50-a897b499ab25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://m2qfietsshop.be/?page_id=166&amp;customer-logout&amp;_wpnonce=8383ffa10d')]</value>
+      <webElementGuid>3605506e-c139-4ede-88ad-d23c23cfa22c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/ul/li[6]/a</value>
+      <webElementGuid>f415cb08-d58a-4dbe-ac87-b5b21cf0b1f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://m2qfietsshop.be/?page_id=166&amp;customer-logout&amp;_wpnonce=8383ffa10d' and (text() = 'Uitloggen' or . = 'Uitloggen')]</value>
+      <webElementGuid>c16acf8e-a65f-4b28-8f0c-b9aedf0bde7f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,14 +143,6 @@
       <type>Main</type>
       <value>//a[contains(@href, 'https://m2qfietsshop.be/?page_id=166&amp;customer-logout&amp;_wpnonce=3b3415e0dd')]</value>
       <webElementGuid>df2fa867-e22b-48d5-ad4c-5ca1cf1c53d5</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//nav/ul/li[6]/a</value>
-      <webElementGuid>1d690c4b-2fdf-4308-9766-c931ffdad20c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

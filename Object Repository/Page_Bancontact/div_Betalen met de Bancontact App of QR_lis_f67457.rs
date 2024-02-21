@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Betalen met de Bancontact App of QR_lis_f67457</name>
+   <tag></tag>
+   <elementGuidId>704e1622-6a9f-40f2-a30e-d1aa8efc5610</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='radix-4']/div[2]/ul/li/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.list__ghost-click</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f20061e6-9c0e-4c7b-931b-ab4c41af3516</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list__ghost-click</value>
+      <webElementGuid>95af7505-dca1-4ab2-9e65-085cfecf6dde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;radix-4&quot;)/div[@class=&quot;c-iFiWDy&quot;]/ul[@class=&quot;list  list--clickable&quot;]/li[@class=&quot;list__item list__item--no-link&quot;]/div[@class=&quot;list__ghost-click&quot;]</value>
+      <webElementGuid>11e84fa3-3ce7-4c98-a372-89bafe9d48bd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='radix-4']/div[2]/ul/li/div[2]</value>
+      <webElementGuid>6e930b07-acdd-46ec-807f-a3cc97f43679</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/ul/li/div[2]</value>
+      <webElementGuid>1fb4eb13-a2d1-4c62-95f3-56548349c2d3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

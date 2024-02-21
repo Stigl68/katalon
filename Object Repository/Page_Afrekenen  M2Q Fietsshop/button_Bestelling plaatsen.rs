@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>bf831ee7-1197-4bdc-a411-9d914408ca16</webElementGuid>
+      <webElementGuid>93e899f1-5218-4d3d-8e48-43f08b608261</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>63663836-5d7b-4ee1-a088-1f9dac0071b5</webElementGuid>
+      <webElementGuid>f9769781-e29f-41b5-a421-8c66cf5dfb9a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>button alt</value>
-      <webElementGuid>a3a63dfc-8393-45ce-a323-832d96ac020b</webElementGuid>
+      <webElementGuid>efa5339c-2120-4de8-9185-247de5489169</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>woocommerce_checkout_place_order</value>
-      <webElementGuid>7a6a8d32-e6a6-4765-8311-cb3f4e51930f</webElementGuid>
+      <webElementGuid>e419ca5b-4a52-4af3-93af-36e6d3ebc8b7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>place_order</value>
-      <webElementGuid>341b811a-6a45-4021-9f83-dd50bcdee883</webElementGuid>
+      <webElementGuid>c25326c6-5d92-454c-8b56-5bd2b0af8403</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Bestelling plaatsen</value>
-      <webElementGuid>4f4e5531-fee4-4fe5-b25b-b6e615d27b7d</webElementGuid>
+      <webElementGuid>9cb1b040-2d2e-4368-a3ca-25a4682fe17a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>data-value</name>
       <type>Main</type>
       <value>Bestelling plaatsen</value>
-      <webElementGuid>559acc8d-d689-4ecf-983d-95bfa65bc68c</webElementGuid>
+      <webElementGuid>1664697f-d21d-4474-b7bf-2308994b9c3a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Bestelling plaatsen</value>
-      <webElementGuid>db9fa568-2ed9-4030-9a01-bceaff40bdaa</webElementGuid>
+      <webElementGuid>75ff4ac9-1fde-458a-80a7-cfa15b99439b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;place_order&quot;)</value>
-      <webElementGuid>f7ebac74-c154-4992-8224-4fa21a3b22bc</webElementGuid>
+      <webElementGuid>ca5e9c65-009e-4442-8291-39ba18a8e6f0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='place_order']</value>
-      <webElementGuid>1aaeb697-ef97-48ca-a9f0-986a8ddb40f1</webElementGuid>
+      <webElementGuid>2d2f522c-6c76-48cc-b619-d32b1aea3848</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='payment']/div/button</value>
-      <webElementGuid>04e6c4e8-10a8-4c78-ad6e-b5edd6c7dc3b</webElementGuid>
+      <webElementGuid>64528fe2-bdc7-4207-aa9f-cec4e964c69e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacybeleid'])[1]/following::button[1]</value>
-      <webElementGuid>b15fbb74-a20a-4092-81c5-86d1ea90216f</webElementGuid>
+      <webElementGuid>b2c35d77-1298-40dc-b4d2-882f974e10aa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Betaling na levering'])[1]/following::button[1]</value>
-      <webElementGuid>4cb36b2d-9d68-40ee-903a-60356a602751</webElementGuid>
+      <webElementGuid>1c79c830-e547-4f6c-99ab-5c0ffac41192</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Neve'])[1]/preceding::button[1]</value>
-      <webElementGuid>a5e7deb9-96e0-4f94-8294-965f7b9c96b8</webElementGuid>
+      <webElementGuid>ce0a68c4-c5f8-4920-b713-66d27556f653</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='WordPress'])[1]/preceding::button[1]</value>
-      <webElementGuid>3fb7bc64-d1c8-46cc-9654-8e51c8280d86</webElementGuid>
+      <webElementGuid>fcb93403-aab7-488e-85c8-204f74895f3e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +142,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Bestelling plaatsen']/parent::*</value>
-      <webElementGuid>0825fb8f-b65b-49c3-b7d0-d793bcc436f3</webElementGuid>
+      <webElementGuid>f7b9ff4b-ac8e-447b-a192-e28383a85f3b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,7 +150,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div[2]/div/div/button</value>
-      <webElementGuid>f6e861b5-a871-4f12-8443-a1274a05754a</webElementGuid>
+      <webElementGuid>c612b958-99c0-4801-a7d2-1a5657e4a435</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,6 +158,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and @name = 'woocommerce_checkout_place_order' and @id = 'place_order' and (text() = 'Bestelling plaatsen' or . = 'Bestelling plaatsen')]</value>
-      <webElementGuid>e7abc838-c5b4-493f-a1e5-a94043313869</webElementGuid>
+      <webElementGuid>3910c9e5-54f8-40d5-b82d-a92a78cd0c7c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

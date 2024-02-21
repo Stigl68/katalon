@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>33a30ecb-148c-4f09-82d2-adff4b77de8f</webElementGuid>
+      <webElementGuid>b73e6cf8-b7e7-4134-a3e3-5a3230025278</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>0241945a-475a-498e-9b5f-f858cda0833e</webElementGuid>
+      <webElementGuid>ec5795c4-95ac-452d-bbf5-05e457507c23</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>add-to-cart</value>
-      <webElementGuid>5e2d7335-2f0a-47dd-9254-5055c7b0f9df</webElementGuid>
+      <webElementGuid>b8ba7a5b-8193-4efe-ac9e-34913070e7c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>value</name>
       <type>Main</type>
       <value>291</value>
-      <webElementGuid>d985f778-bc0e-4ec4-ab25-0c2c8d4da797</webElementGuid>
+      <webElementGuid>a2155649-200f-4c78-8c1b-67ffb721562a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>single_add_to_cart_button button alt</value>
-      <webElementGuid>164af149-ceb7-4892-8df2-5567d06f64b8</webElementGuid>
+      <webElementGuid>9cec632c-e67c-483a-a3d0-fa67224f7605</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>In winkelmand</value>
-      <webElementGuid>02bf490e-9602-4e39-ac5a-e3bb0dcbab09</webElementGuid>
+      <webElementGuid>af117da6-a75c-4f26-ad45-997d8c59b758</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;product-291&quot;)/div[@class=&quot;summary entry-summary&quot;]/form[@class=&quot;cart&quot;]/button[@class=&quot;single_add_to_cart_button button alt&quot;]</value>
-      <webElementGuid>1cfed5c1-8b58-4362-8756-84878365fa8f</webElementGuid>
+      <webElementGuid>a406ad16-b3cc-4eb5-9cae-47c930229f90</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@name='add-to-cart']</value>
-      <webElementGuid>e2fac9e4-5337-44e8-a447-79a3126c28fc</webElementGuid>
+      <webElementGuid>023c71be-6cb7-4f7a-aecd-7219ab745961</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='product-291']/div[2]/form/button</value>
-      <webElementGuid>bca9c8f3-cf3b-4b62-86bb-07862a1318ef</webElementGuid>
+      <webElementGuid>ab897a6a-fd12-4810-8fba-0cfb27f0ed8f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Diefstalverzekering - Basic quantity'])[1]/following::button[1]</value>
-      <webElementGuid>a1a8a0cc-7701-43d8-a023-71fda8d2257f</webElementGuid>
+      <webElementGuid>13d9164f-8640-4ca7-af54-756f5b1de192</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='€'])[1]/following::button[1]</value>
-      <webElementGuid>e80cdc7e-f9d7-499c-9df0-cdebddfcd6b6</webElementGuid>
+      <webElementGuid>173d1f72-4887-4b07-ac12-5c006161e106</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Diefstalverzekering'])[1]/preceding::button[1]</value>
-      <webElementGuid>21526919-4ff8-4c9d-8416-c9be192a8511</webElementGuid>
+      <webElementGuid>4f852f9c-004a-477c-a4cc-1e0bad1521ed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='In winkelmand']/parent::*</value>
-      <webElementGuid>dfa26adc-8d77-4ba6-ae68-ac411e0e345a</webElementGuid>
+      <webElementGuid>06e19231-79af-4af7-9c87-77f57c0eddfd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/button</value>
-      <webElementGuid>52e61a54-bb47-4b56-889b-b75535b406a4</webElementGuid>
+      <webElementGuid>cce72bbc-4878-4418-9c14-b992f8ac3ecf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and @name = 'add-to-cart' and (text() = 'In winkelmand' or . = 'In winkelmand')]</value>
-      <webElementGuid>34c02276-96c0-4749-bb55-9b29a38c27ec</webElementGuid>
+      <webElementGuid>d640a4a3-91ca-4cc8-b0f3-a13b753ff7fd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

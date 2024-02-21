@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Inloggen</name>
+   <tag></tag>
+   <elementGuidId>38d5cefb-23f9-4898-a16b-11aa292692df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='header']/div/div[3]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>908ff574-f96c-46ce-ab19-cd5076ef4625</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>u-show-block@screen-xl-up</value>
+      <webElementGuid>db7badcd-e40e-4152-ab8d-ec1bf9574be9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Inloggen</value>
+      <webElementGuid>ec8de557-e570-4a5a-b6ad-4331e946288d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/div[@class=&quot;wsp-header-sections  js_search_suggestion_header_pos&quot;]/div[@class=&quot;wsp-header-sections__account&quot;]/a[@class=&quot;h-color-white-text px_common_customermenu_click small_details u-show-block@screen-xl-up&quot;]/span[@class=&quot;u-show-block@screen-xl-up&quot;]</value>
+      <webElementGuid>49568bbf-9407-4d97-9dc7-aadde8af88e9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='header']/div/div[3]/a/span</value>
+      <webElementGuid>c459838b-894b-4ce3-b6ee-00e3e46c56f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account menu'])[1]/following::span[1]</value>
+      <webElementGuid>4ed89173-00e3-4a6b-a767-607114540d4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inloggen'])[1]/following::span[2]</value>
+      <webElementGuid>adf2582a-2655-4910-a5fc-56501dc213ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lijstjes'])[1]/preceding::span[1]</value>
+      <webElementGuid>23e8c678-2197-4a88-8a14-926fb6745401</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Winkelwagen'])[1]/preceding::span[2]</value>
+      <webElementGuid>93a6386c-84d7-4be5-a818-6e18d73a64a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a/span</value>
+      <webElementGuid>25ebbde0-f8e9-468f-ae4a-cde1f0ced82f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Inloggen' or . = 'Inloggen')]</value>
+      <webElementGuid>ea798bad-58e3-4489-9046-6c8e8fd82843</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

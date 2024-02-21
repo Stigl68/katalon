@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_X2 PCS REAR SHOCK ABSORBERS PAIR SHOCKE_52d480</name>
+   <tag></tag>
+   <elementGuidId>ac81c3da-88d8-4d34-b40c-a78b3ca95160</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='item4262aee381']/div/div[2]/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#item4262aee381 > div.s-item__wrapper.clearfix > div.s-item__info.clearfix > a.s-item__link > div.s-item__title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9f073faa-5d09-4903-807c-4dd03bf2d9d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>s-item__title</value>
+      <webElementGuid>36823e08-2503-4ae0-9011-d08b497d1be3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>X2 PCS REAR SHOCK ABSORBERS PAIR SHOCKER SK-2805 ARNOTT EUROPE I</value>
+      <webElementGuid>98f0c796-1989-42bd-8727-7738aa3f0e83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;item4262aee381&quot;)/div[@class=&quot;s-item__wrapper clearfix&quot;]/div[@class=&quot;s-item__info clearfix&quot;]/a[@class=&quot;s-item__link&quot;]/div[@class=&quot;s-item__title&quot;]</value>
+      <webElementGuid>b2772ff2-08ab-4e5e-aa3b-d687eb16c4a4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='item4262aee381']/div/div[2]/a/div</value>
+      <webElementGuid>577b1fbe-986d-485b-96bc-6ebedfae34e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='van Verenigd Koninkrijk'])[4]/following::div[8]</value>
+      <webElementGuid>f05f9885-1785-414c-8119-7e4de30e3703</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+EUR 5,27 verzendkosten'])[4]/following::div[9]</value>
+      <webElementGuid>bcbdc88d-c990-4eef-8580-51ec840fb026</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nieuw venster of tabblad'])[18]/preceding::div[1]</value>
+      <webElementGuid>3f2bef65-09a0-43c2-a478-d31a660786ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[18]/div/div[2]/a/div</value>
+      <webElementGuid>bb878c71-28b3-4d55-b68e-94b3c0c933fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'X2 PCS REAR SHOCK ABSORBERS PAIR SHOCKER SK-2805 ARNOTT EUROPE I' or . = 'X2 PCS REAR SHOCK ABSORBERS PAIR SHOCKER SK-2805 ARNOTT EUROPE I')]</value>
+      <webElementGuid>19bd6c58-07dc-4132-9b54-2a64bcdf7ee3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

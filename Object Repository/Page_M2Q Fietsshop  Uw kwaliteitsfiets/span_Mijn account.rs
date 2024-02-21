@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>faf11a6f-cc0d-472e-ac2a-dcf47b1f3afd</webElementGuid>
+      <webElementGuid>63252281-d4ea-4f67-b27c-1e0abab692d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>menu-item-title-wrap</value>
-      <webElementGuid>c9a779aa-612c-4267-a809-82ec58bd696c</webElementGuid>
+      <webElementGuid>2ce7a7e1-3e60-4a7e-bab6-9a76bf24e3c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Mijn account</value>
-      <webElementGuid>6a5348ce-77ac-4cba-a0ea-6ff581685cb0</webElementGuid>
+      <webElementGuid>a6d3c932-8d68-4473-a0b0-14f3af965578</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;menu-item-170&quot;)/a[1]/span[@class=&quot;menu-item-title-wrap&quot;]</value>
-      <webElementGuid>cb56e67d-c165-4af8-b310-0a3eaadf078b</webElementGuid>
+      <webElementGuid>e178bf22-7016-4d65-8067-f2e1a29bb99c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='menu-item-170']/a/span</value>
-      <webElementGuid>be709040-d712-40ee-9a82-aac312bde5df</webElementGuid>
+      <webElementGuid>b703f3a8-9ccd-475b-a7ce-6969251b45bc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact'])[1]/following::span[1]</value>
-      <webElementGuid>d5e8fac6-2bc7-4a72-8218-78d1e9fb4d8f</webElementGuid>
+      <webElementGuid>8b47d1c6-8afb-4ae9-944b-ee552cf5677f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Berichten'])[1]/following::span[1]</value>
-      <webElementGuid>666ff4cf-0afd-4e67-b87c-20b1197ebb33</webElementGuid>
+      <webElementGuid>303ac15e-cd3b-4657-bb37-b9e932134adb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Bestellingen'])[1]/preceding::span[2]</value>
-      <webElementGuid>21c6bc75-00a0-46d6-9a7a-a44c791a2a06</webElementGuid>
+      <webElementGuid>6888b30a-e8d7-46e7-a809-4d633a9a8fa4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Accountgegevens'])[1]/preceding::span[2]</value>
-      <webElementGuid>c285114f-4a10-44af-b78d-5ebfbbe08873</webElementGuid>
+      <webElementGuid>5b09a87d-471b-478b-89d4-342ab1829a7f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Mijn account']/parent::*</value>
-      <webElementGuid>71e0302d-05e6-4fc9-bb58-ab670d999535</webElementGuid>
+      <webElementGuid>23967c91-6f9b-42f5-ad9a-1df311d0c56e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[7]/a/span</value>
-      <webElementGuid>834b36f2-37e7-441a-80ad-89a61d9b633e</webElementGuid>
+      <webElementGuid>4fb59a17-ec06-42c2-b7e4-ce212506d921</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Mijn account' or . = 'Mijn account')]</value>
-      <webElementGuid>0fb37672-b65a-4aaa-9c30-dfb1c1f4f4da</webElementGuid>
+      <webElementGuid>22a4be11-b433-41de-9775-432043126a9b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

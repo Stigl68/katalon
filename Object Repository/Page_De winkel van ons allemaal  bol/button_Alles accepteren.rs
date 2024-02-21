@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Alles accepteren</name>
+   <tag></tag>
+   <elementGuidId>57bbd072-ae9e-4322-90a3-a82d5b6487ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='js-first-screen-accept-all-button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#js-first-screen-accept-all-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1ea363d1-42af-416d-9713-a3b964b958ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-btn ui-btn--primary ui-btn--block@screen-small</value>
+      <webElementGuid>7f4a0de1-9611-41b7-8151-f750d898bec4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>js-first-screen-accept-all-button</value>
+      <webElementGuid>b5666f1e-d175-4417-b8c5-ad87e3d2756b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test</name>
+      <type>Main</type>
+      <value>consent-modal-ofc-confirm-btn</value>
+      <webElementGuid>4b663db4-2101-4a52-bf45-5ec156a30840</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+            Alles accepteren
+        </value>
+      <webElementGuid>1346e66d-f94b-40c2-a1d8-ce056dd7f914</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;js-first-screen-accept-all-button&quot;)</value>
+      <webElementGuid>ad827843-821e-4504-a966-b09a5d71e7c0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='js-first-screen-accept-all-button']</value>
+      <webElementGuid>83986c80-d051-492f-aa06-dc2b9699a797</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//wsp-modal-window[@id='modalWindow']/div[2]/div[2]/wsp-consent-modal-ofc/div[3]/button[3]</value>
+      <webElementGuid>85a8c6fb-593e-4c77-bc47-57ac7364bdda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alles accepteren'])[1]/following::button[1]</value>
+      <webElementGuid>3859210f-882f-403e-ae05-f37a708b645e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keuze opslaan'])[1]/following::button[2]</value>
+      <webElementGuid>840a8ea6-8913-4037-aaca-3db4560437d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zelf instellen'])[1]/preceding::button[1]</value>
+      <webElementGuid>4d502e59-7eb1-452c-8bd7-d40b4ed8f812</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Weigeren'])[1]/preceding::button[2]</value>
+      <webElementGuid>0bf9994c-67c1-45c4-8ab9-127b8b83541e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[3]</value>
+      <webElementGuid>8fe22b33-fef1-401d-9b79-7fbe4fd51539</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'js-first-screen-accept-all-button' and (text() = '
+            Alles accepteren
+        ' or . = '
+            Alles accepteren
+        ')]</value>
+      <webElementGuid>c55b3f9a-9def-43da-9480-6cd510d99611</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

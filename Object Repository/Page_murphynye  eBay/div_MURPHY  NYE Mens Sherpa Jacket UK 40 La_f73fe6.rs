@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_MURPHY  NYE Mens Sherpa Jacket UK 40 La_f73fe6</name>
+   <tag></tag>
+   <elementGuidId>b99c9562-c9d1-4b26-a932-7bb6d54bc282</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='item2b5faaac72']/div/div[2]/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#item2b5faaac72 > div.s-item__wrapper.clearfix > div.s-item__info.clearfix > a.s-item__link > div.s-item__title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7be364f0-58c7-4b1b-be0a-4c3ac4dee5dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>s-item__title</value>
+      <webElementGuid>65a6612e-6681-4c7b-a38d-55e424386c51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MURPHY &amp; NYE Mens Sherpa Jacket UK 40 Large Brown Cotton AL10</value>
+      <webElementGuid>97f0373e-b0fc-43fd-8997-db0737770086</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;item2b5faaac72&quot;)/div[@class=&quot;s-item__wrapper clearfix&quot;]/div[@class=&quot;s-item__info clearfix&quot;]/a[@class=&quot;s-item__link&quot;]/div[@class=&quot;s-item__title&quot;]</value>
+      <webElementGuid>60b53d2f-b6d4-4dc8-8f3b-8d41e1ae5d20</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='item2b5faaac72']/div/div[2]/a/div</value>
+      <webElementGuid>3a0d58b2-61ab-4039-95c3-49c0f8b247b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='van Verenigd Koninkrijk'])[13]/following::div[8]</value>
+      <webElementGuid>cf68e533-7e4c-4703-bf1d-c1adc3335346</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+EUR 7,02 verzendkosten'])[8]/following::div[9]</value>
+      <webElementGuid>b65b2610-a503-4318-922a-021826d9a352</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nieuw venster of tabblad'])[15]/preceding::div[1]</value>
+      <webElementGuid>4cb8fb58-ea9a-4163-8ab1-9546497779f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[15]/div/div[2]/a/div</value>
+      <webElementGuid>38615077-0216-49e1-89be-0fd6d18512ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'MURPHY &amp; NYE Mens Sherpa Jacket UK 40 Large Brown Cotton AL10' or . = 'MURPHY &amp; NYE Mens Sherpa Jacket UK 40 Large Brown Cotton AL10')]</value>
+      <webElementGuid>5c257fed-85fe-487e-ad7d-cc4654480602</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

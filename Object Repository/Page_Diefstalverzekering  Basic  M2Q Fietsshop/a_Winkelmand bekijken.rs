@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>8c0b3db5-346b-42b5-917b-110c290b469b</webElementGuid>
+      <webElementGuid>150d169d-4220-406c-87ff-eee8444252f6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://m2qfietsshop.be/?page_id=164</value>
-      <webElementGuid>07df7949-97e7-4c07-8234-cd5e60d45913</webElementGuid>
+      <webElementGuid>247a6003-6e3a-4403-a5fb-1a6e04028e36</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>ac37cb01-a701-4634-82fd-8ea18d8a7565</webElementGuid>
+      <webElementGuid>540a7589-8d79-4f77-ad88-17c695ba01c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>button wc-forward</value>
-      <webElementGuid>4941b7ad-e854-4736-8b21-57e5abe68a0c</webElementGuid>
+      <webElementGuid>6d07c74e-2310-4ae0-8d96-1055451c27ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Winkelmand bekijken</value>
-      <webElementGuid>44923656-241b-4ca9-a5df-ab69cddca7ac</webElementGuid>
+      <webElementGuid>2a21811f-3e95-43a6-8999-3c82300c39ee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;content&quot;)/div[@class=&quot;container shop-container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;nv-index-posts nv-shop col&quot;]/div[@class=&quot;woocommerce-notices-wrapper&quot;]/div[@class=&quot;woocommerce-message&quot;]/a[@class=&quot;button wc-forward&quot;]</value>
-      <webElementGuid>5279923f-4e9f-4f7a-948f-bf821fe5898a</webElementGuid>
+      <webElementGuid>266d57c1-9850-4497-a246-c29ad87ba453</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//main[@id='content']/div/div/div/div[2]/div/a</value>
-      <webElementGuid>52c8a7ba-c4d2-437b-bb79-7f2e2b0125f3</webElementGuid>
+      <webElementGuid>217532d7-65dc-4363-b427-c3695702d158</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Winkelmand bekijken')]</value>
-      <webElementGuid>1918505d-5ee6-4ef2-ae18-33fa16aeaa0b</webElementGuid>
+      <webElementGuid>c97d7f9f-1e1f-40f9-830e-c87d768eb9a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='»'])[2]/following::a[1]</value>
-      <webElementGuid>b9a2531e-ba1d-45dc-9ecf-e0c817b5caa8</webElementGuid>
+      <webElementGuid>5981e40a-a7e0-4571-8920-609dcc18dcbd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Diefstalverzekering – Basic'])[1]/preceding::a[3]</value>
-      <webElementGuid>7c4a3b0d-e606-4eda-8349-5b5267f9fbdb</webElementGuid>
+      <webElementGuid>dd90dce7-e46b-4ee9-b632-5e8cd11cee61</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Winkelmand bekijken']/parent::*</value>
-      <webElementGuid>fa63c210-80fa-4db1-950a-4cf1f1de03b5</webElementGuid>
+      <webElementGuid>581de68e-e8fe-4024-8921-7f0c5d0558fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, 'https://m2qfietsshop.be/?page_id=164')])[3]</value>
-      <webElementGuid>c2f85be8-b280-4525-8471-558b2033acb6</webElementGuid>
+      <webElementGuid>03d4e504-e158-4714-8584-cc69091320fb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/a</value>
-      <webElementGuid>62d99cdf-adfa-4cfe-b6c8-b06b7697ade5</webElementGuid>
+      <webElementGuid>dc20c0e7-2d8a-470c-875b-258ee254a7c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://m2qfietsshop.be/?page_id=164' and (text() = 'Winkelmand bekijken' or . = 'Winkelmand bekijken')]</value>
-      <webElementGuid>5523aaa6-bc03-4d64-b86d-8973f270d35c</webElementGuid>
+      <webElementGuid>d6d1f20d-ec80-4893-ae0c-b15ab03e23c4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

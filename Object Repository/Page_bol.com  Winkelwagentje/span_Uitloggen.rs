@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Uitloggen</name>
+   <tag></tag>
+   <elementGuidId>cfb974bb-57c0-4da0-8342-cba668901a8b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='header']/div/div[3]/div/div/div/ul/li[11]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>68751e30-7297-4583-ade8-9dc046a3de9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h-block--inline  vatop</value>
+      <webElementGuid>ef6a50ec-d786-4fc3-86fc-83e155f7be57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Uitloggen</value>
+      <webElementGuid>fedfc90b-fcff-4f01-8636-91eb583e097b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/div[@class=&quot;wsp-header-sections  js_search_suggestion_header_pos&quot;]/div[@class=&quot;wsp-header-sections__account&quot;]/div[@class=&quot;o-drop-down account-dropdown  account-dropdown--canvas&quot;]/div[@class=&quot;o-drop-down__navigation&quot;]/div[@class=&quot;offcanvas-container  offcanvas-container--right&quot;]/ul[@class=&quot;account-nav&quot;]/li[@class=&quot;account-nav__item&quot;]/a[@class=&quot;account-nav__link&quot;]/span[@class=&quot;h-block--inline  vatop&quot;]</value>
+      <webElementGuid>1a8b2e19-0318-4421-a86c-01c2edba91be</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='header']/div/div[3]/div/div/div/ul/li[11]/a/span</value>
+      <webElementGuid>0631dc46-b1cb-49ad-bfe2-90823b121eaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Verkopen'])[1]/following::span[1]</value>
+      <webElementGuid>7ad4fcfd-8ce2-4f84-a310-04b424fca1b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Digitale producten'])[1]/following::span[2]</value>
+      <webElementGuid>a2d2af1d-e8e9-4b1c-85de-2acc9895d3cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account menu'])[1]/preceding::span[1]</value>
+      <webElementGuid>ec36f57e-8831-4dac-98b7-20c6d35f954b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lijstjes'])[1]/preceding::span[2]</value>
+      <webElementGuid>739eec01-28cb-48b5-b377-879ae5676b0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Uitloggen']/parent::*</value>
+      <webElementGuid>a95f9c61-d3e2-4366-964a-fcb401e525cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[11]/a/span</value>
+      <webElementGuid>6d9a97d9-fb71-4efe-a85d-f7cab68e2ed0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Uitloggen' or . = 'Uitloggen')]</value>
+      <webElementGuid>f95175eb-6c76-4e63-9e34-d8b5c5b2ea53</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

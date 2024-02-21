@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Check-out Date</name>
+   <tag></tag>
+   <elementGuidId>c0e8c8c0-5240-4da2-96c5-b35cb753b626</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='indexsearch']/div[2]/div/form/div/div[2]/div/div/button[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>001ee3bd-049b-473c-9350-d2df6e358c61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a8887b152e</value>
+      <webElementGuid>3f201894-b479-4f72-8d61-6b2ac8bc3a8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Check-out Date</value>
+      <webElementGuid>87ee6627-5876-455f-b775-ad99df66f17a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;indexsearch&quot;)/div[@class=&quot;hero-banner-searchbox&quot;]/div[1]/form[1]/div[@class=&quot;ffb9c3d6a3 c9a7790c31 e691439f9a&quot;]/div[@class=&quot;e22b782521&quot;]/div[@class=&quot;a1139161bf&quot;]/div[@class=&quot;f73e6603bf&quot;]/button[@class=&quot;ebbedaf8ac ab26a5d2bd e33c97ff6b&quot;]/span[@class=&quot;a8887b152e&quot;]</value>
+      <webElementGuid>edbcdd35-6be4-49a8-b994-0357b8c57d37</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='indexsearch']/div[2]/div/form/div/div[2]/div/div/button[2]/span</value>
+      <webElementGuid>6f45bd51-9157-4ef9-8035-e1180ff4f1bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='—'])[1]/following::span[1]</value>
+      <webElementGuid>e69c1c43-33be-461e-aa7d-c75610b1d43b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thu, Feb 15'])[1]/following::span[2]</value>
+      <webElementGuid>9b467b67-2392-40f1-a116-2ac4bc826a40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Calendar'])[1]/preceding::span[1]</value>
+      <webElementGuid>39d4ba82-338e-4322-b9fe-6f781b76d89b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Check-out Date']/parent::*</value>
+      <webElementGuid>9342541f-ab57-452a-9208-e2e44241e42d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span</value>
+      <webElementGuid>a43eacc9-3677-4b6a-bfd6-2cc83235588b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Check-out Date' or . = 'Check-out Date')]</value>
+      <webElementGuid>617153fb-7f96-4921-98e2-5270832b114e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_See availability</name>
+   <tag></tag>
+   <elementGuidId>502f208f-d6f0-40ed-b81b-890d8d43a0a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.a83ed08757.c21c56c305.a4c1805887.d691166b09.ab98298258.deab83296e.c082d89982.ff33faec5f</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='bodyconstraint-inner']/div[2]/div/div[2]/div[3]/div[2]/div[4]/div[3]/div[3]/div/div[2]/div/div[3]/div[2]/div/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a4c2a23e-6f6d-4fcc-8a00-cbf2aac77c1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>availability-cta-btn</value>
+      <webElementGuid>46533f67-13a0-490f-83f5-10447b95bac7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>5af60073-cc15-4bce-ab99-22238f7e4b53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.booking.com/hotel/it/tourist-house-battistero.html?label=gen173nr-1FCAEoggI46AdIM1gEaBWIAQGYATG4ARfIAQzYAQHoAQH4AQKIAgGoAgO4At-nqK4GwAIB0gIkODgyYzdkYmUtMjk4Ny00MTQzLTkwMWEtNDZkZmE2YWVmMTcy2AIF4AIB&amp;aid=304142&amp;ucfs=1&amp;arphpl=1&amp;checkin=2024-02-15&amp;checkout=2024-02-16&amp;dest_id=910&amp;dest_type=region&amp;group_adults=2&amp;req_adults=2&amp;no_rooms=1&amp;group_children=0&amp;req_children=0&amp;hpos=1&amp;hapos=1&amp;sr_order=popularity&amp;srpvid=1ecb5a492b0f0560&amp;srepoch=1707742231&amp;all_sr_blocks=25002706_131083766_0_2_0&amp;highlighted_blocks=25002706_131083766_0_2_0&amp;matching_block_id=25002706_131083766_0_2_0&amp;sr_pri_blocks=25002706_131083766_0_2_0__9818&amp;from=searchresults#hotelTmpl</value>
+      <webElementGuid>71fcb38d-b66e-45c9-b1aa-ad3bd045c4ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a83ed08757 c21c56c305 a4c1805887 d691166b09 ab98298258 deab83296e c082d89982 ff33faec5f</value>
+      <webElementGuid>48467add-eef5-4940-8c5f-dbfca886588d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>See availability</value>
+      <webElementGuid>a36a55cf-9747-409a-8653-f09ba9e60ac9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bodyconstraint-inner&quot;)/div[2]/div[1]/div[@class=&quot;af5895d4b2&quot;]/div[@class=&quot;df7e6ba27d&quot;]/div[@class=&quot;bcbf33c5c3&quot;]/div[@class=&quot;dcf496a7b9 bb2746aad9&quot;]/div[@class=&quot;d4924c9e74&quot;]/div[@class=&quot;c82435a4b8 a178069f51 a6ae3c2b40 a18aeea94d d794b7a0f7 f53e278e95 c6710787a4&quot;]/div[@class=&quot;c066246e13&quot;]/div[@class=&quot;c1edfbabcb&quot;]/div[@class=&quot;aca0ade214 aaf30230d9 cd2e7d62b0 b0db0e8ada&quot;]/div[@class=&quot;b1037148f8 c730b02848&quot;]/div[@class=&quot;a4b53081e1&quot;]/div[@class=&quot;aca0ade214 aaf30230d9 cd2e7d62b0 b23caa1645&quot;]/div[@class=&quot;da8b337763&quot;]/a[@class=&quot;a83ed08757 c21c56c305 a4c1805887 d691166b09 ab98298258 deab83296e c082d89982 ff33faec5f&quot;]</value>
+      <webElementGuid>b4630bb2-4ce4-4dd4-a03e-239a90ff0f0a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bodyconstraint-inner']/div[2]/div/div[2]/div[3]/div[2]/div[4]/div[3]/div[3]/div/div[2]/div/div[3]/div[2]/div/div[2]/a</value>
+      <webElementGuid>d68d0d43-6c29-4780-8a49-7a9e89614c94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Includes taxes and fees'])[1]/following::a[1]</value>
+      <webElementGuid>923f369a-bc2a-42f1-8071-fbf4ba33115f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Original price € 185. Current price € 98.'])[1]/following::a[1]</value>
+      <webElementGuid>cd17ff36-670b-4c29-ac56-4590a57cf675</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Breakfast included'])[1]/preceding::a[1]</value>
+      <webElementGuid>086dae87-6374-4485-a061-0aeab9e5b68b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://www.booking.com/hotel/it/tourist-house-battistero.html?label=gen173nr-1FCAEoggI46AdIM1gEaBWIAQGYATG4ARfIAQzYAQHoAQH4AQKIAgGoAgO4At-nqK4GwAIB0gIkODgyYzdkYmUtMjk4Ny00MTQzLTkwMWEtNDZkZmE2YWVmMTcy2AIF4AIB&amp;aid=304142&amp;ucfs=1&amp;arphpl=1&amp;checkin=2024-02-15&amp;checkout=2024-02-16&amp;dest_id=910&amp;dest_type=region&amp;group_adults=2&amp;req_adults=2&amp;no_rooms=1&amp;group_children=0&amp;req_children=0&amp;hpos=1&amp;hapos=1&amp;sr_order=popularity&amp;srpvid=1ecb5a492b0f0560&amp;srepoch=1707742231&amp;all_sr_blocks=25002706_131083766_0_2_0&amp;highlighted_blocks=25002706_131083766_0_2_0&amp;matching_block_id=25002706_131083766_0_2_0&amp;sr_pri_blocks=25002706_131083766_0_2_0__9818&amp;from=searchresults#hotelTmpl')])[5]</value>
+      <webElementGuid>d86ee22f-94f6-4493-a86d-d84b0263233f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/a</value>
+      <webElementGuid>6f235128-2ef4-4f61-ae28-8eaadee6da97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.booking.com/hotel/it/tourist-house-battistero.html?label=gen173nr-1FCAEoggI46AdIM1gEaBWIAQGYATG4ARfIAQzYAQHoAQH4AQKIAgGoAgO4At-nqK4GwAIB0gIkODgyYzdkYmUtMjk4Ny00MTQzLTkwMWEtNDZkZmE2YWVmMTcy2AIF4AIB&amp;aid=304142&amp;ucfs=1&amp;arphpl=1&amp;checkin=2024-02-15&amp;checkout=2024-02-16&amp;dest_id=910&amp;dest_type=region&amp;group_adults=2&amp;req_adults=2&amp;no_rooms=1&amp;group_children=0&amp;req_children=0&amp;hpos=1&amp;hapos=1&amp;sr_order=popularity&amp;srpvid=1ecb5a492b0f0560&amp;srepoch=1707742231&amp;all_sr_blocks=25002706_131083766_0_2_0&amp;highlighted_blocks=25002706_131083766_0_2_0&amp;matching_block_id=25002706_131083766_0_2_0&amp;sr_pri_blocks=25002706_131083766_0_2_0__9818&amp;from=searchresults#hotelTmpl' and (text() = 'See availability' or . = 'See availability')]</value>
+      <webElementGuid>532c60be-be67-4cca-9dfe-c705a4cab612</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

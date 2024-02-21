@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Doorgaan als bezoeker</name>
+   <tag></tag>
+   <elementGuidId>4dedec2c-7a76-4bbd-9aaa-f85fc1c3abd0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='gxo-btn']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#gxo-btn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4f84fc21-b644-48d7-8506-c7e8ab3ef629</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn--secondary btn--large btn--fluid</value>
+      <webElementGuid>c5fe9575-c443-47ed-b9bc-21394ca0edd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>gxo-btn</value>
+      <webElementGuid>c1626905-dfb4-4281-9fe9-a396883a95f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Doorgaan als bezoeker</value>
+      <webElementGuid>e59de873-9bc0-4ffb-8b77-f14835f7f4df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gxo-btn&quot;)</value>
+      <webElementGuid>a0c52f82-d2a4-4f33-a5fb-ed68c0b6e956</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='gxo-btn']</value>
+      <webElementGuid>57fbca66-19a2-4d44-babc-5aa081334a8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='signin-chooser']/div[2]/div[3]/button[2]</value>
+      <webElementGuid>413637e0-4db9-4302-9b4e-43f4ffbb6ab4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Doorgaan met inloggen'])[1]/following::button[1]</value>
+      <webElementGuid>aad5fb12-8991-454d-9572-0bbbb4455436</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EUR 690,09'])[1]/following::button[3]</value>
+      <webElementGuid>a5995a4d-27ee-47a9-a70f-2fb493cd8c2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aanvullende sitenavigatie'])[1]/preceding::button[1]</value>
+      <webElementGuid>bc8c5f7c-b63d-42eb-9ed6-c500b9584e6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Over eBay'])[1]/preceding::button[1]</value>
+      <webElementGuid>f6419326-9e45-4152-9ab1-81b60fc35bc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Doorgaan als bezoeker']/parent::*</value>
+      <webElementGuid>508e0c2b-9d6a-4906-b7e1-3a0743cdbfdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>1ed4d29f-61a2-4bc4-9737-63e0116bd8d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'gxo-btn' and (text() = 'Doorgaan als bezoeker' or . = 'Doorgaan als bezoeker')]</value>
+      <webElementGuid>87ccd590-f92c-4674-86af-9305b39590b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

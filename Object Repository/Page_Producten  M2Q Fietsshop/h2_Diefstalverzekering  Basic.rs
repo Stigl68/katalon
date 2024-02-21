@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h2</value>
-      <webElementGuid>145ce37b-4294-4090-bac1-bb1792aac277</webElementGuid>
+      <webElementGuid>c5632a68-0f85-4243-bacf-955db61225e9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>woocommerce-loop-product__title</value>
-      <webElementGuid>2573cd5f-12c6-4b8d-8ee2-7a980294befa</webElementGuid>
+      <webElementGuid>6d5fb3c9-e56e-40de-a13c-3c1128d82a53</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Diefstalverzekering – Basic</value>
-      <webElementGuid>a6ca6368-4553-4556-b53c-207dbae6d9b0</webElementGuid>
+      <webElementGuid>b9cb53b4-d8e9-4866-b3a8-3057cbff526a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;content&quot;)/div[@class=&quot;container shop-container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;nv-index-posts nv-shop col&quot;]/ul[@class=&quot;products columns-3&quot;]/li[@class=&quot;product type-product post-291 status-publish first instock product_cat-diefstalverzekering product_cat-verzekeringen has-post-thumbnail shipping-taxable purchasable product-type-simple&quot;]/div[@class=&quot;nv-card-content-wrapper&quot;]/a[@class=&quot;woocommerce-LoopProduct-link woocommerce-loop-product__link&quot;]/h2[@class=&quot;woocommerce-loop-product__title&quot;]</value>
-      <webElementGuid>1d687c0b-3d7a-434a-bd39-eb8e54dcc219</webElementGuid>
+      <webElementGuid>6a18a41c-06a2-4344-9eaf-3bbde49eeb5e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//main[@id='content']/div/div/div/ul/li/div/a/h2</value>
-      <webElementGuid>28f5186c-3428-4544-a198-cbc1c2613214</webElementGuid>
+      <webElementGuid>645fc340-8fc5-4847-90df-d1f78fa4b3a9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter»'])[1]/following::h2[1]</value>
-      <webElementGuid>f16f1ee6-1b87-4e77-aabc-ed15cde9cc0b</webElementGuid>
+      <webElementGuid>0b5d99b5-0b5e-452d-8351-6d5d3e666a1d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='»'])[1]/following::h2[1]</value>
-      <webElementGuid>6533fb11-989d-478b-8909-c55afffbcf81</webElementGuid>
+      <webElementGuid>7d13bb7a-6c99-4e68-9f68-c3e4ecaa477b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='€'])[1]/preceding::h2[1]</value>
-      <webElementGuid>ed11b1a2-c631-4d27-b981-732bafab64b1</webElementGuid>
+      <webElementGuid>26ec0707-d021-44b0-9777-21a3955d3248</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Diefstalverzekering – Basic']/parent::*</value>
-      <webElementGuid>0b531887-6e16-45ec-bcef-93dbda0356f6</webElementGuid>
+      <webElementGuid>c515dbfe-e472-4d63-a575-d9b44bb9582c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h2</value>
-      <webElementGuid>b6143f01-019a-4f14-9f7b-a29851e5f973</webElementGuid>
+      <webElementGuid>1e3e3002-ce98-432b-9a6c-3b7eb38c7a7c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h2[(text() = 'Diefstalverzekering – Basic' or . = 'Diefstalverzekering – Basic')]</value>
-      <webElementGuid>04c7df06-8136-4258-9c1a-93327352c998</webElementGuid>
+      <webElementGuid>2e4a8c5b-cc34-41d8-ad5f-6159124dd08f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

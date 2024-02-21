@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Bestellen en betalen</name>
+   <tag></tag>
+   <elementGuidId>2c0ec856-baca-4105-8278-3e332038fc0c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.c-cTzGPd.c-PJLV.c-PJLV-dnaZtA-appearance-PRIMARY.c-PJLV-elLwJA-isBlockPhone-true</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b5f8c86b-0066-43c8-851c-7966d6af2aa7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>c-cTzGPd c-PJLV c-PJLV-dnaZtA-appearance-PRIMARY c-PJLV-elLwJA-isBlockPhone-true</value>
+      <webElementGuid>21a55c43-8496-4784-b297-81a2acc1496b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6dfc3f71-fc70-425e-a6e7-14604c7d5371</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>4f0861bc-68ed-410b-8bf6-704952ddf2bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bestellen en betalen</value>
+      <webElementGuid>1d8d89c4-db02-44c5-9635-4567e6a1911f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;executepayment&quot;)/form[1]/div[@class=&quot;o-form__action o-form__action--terms&quot;]/button[@class=&quot;c-cTzGPd c-PJLV c-PJLV-dnaZtA-appearance-PRIMARY c-PJLV-elLwJA-isBlockPhone-true&quot;]</value>
+      <webElementGuid>583c7910-6d5a-4cfd-9706-65268c15d72f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[4]</value>
+      <webElementGuid>a703e407-14b2-4cb3-b6fa-8b7aede307b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='executepayment']/form/div/button</value>
+      <webElementGuid>a5fdd1a5-222a-4d23-be6d-402f4674d5d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='en haar partner(s)'])[1]/following::button[1]</value>
+      <webElementGuid>08d84f33-dc04-4120-a674-415ceb2e57cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='van bol.com'])[1]/following::button[1]</value>
+      <webElementGuid>8b0f7e16-fc82-455a-a2e9-31b747b15bba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Overzicht'])[1]/preceding::button[1]</value>
+      <webElementGuid>241fd115-a544-4e4d-b59a-90aaa87868e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/button</value>
+      <webElementGuid>5089e4dd-7651-47d6-8850-73bfb9675b4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Bestellen en betalen' or . = 'Bestellen en betalen')]</value>
+      <webElementGuid>8d7931b3-b61a-4666-ab3b-5eaa29315398</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

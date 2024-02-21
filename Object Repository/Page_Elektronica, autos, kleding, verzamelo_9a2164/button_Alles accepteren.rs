@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Alles accepteren</name>
+   <tag></tag>
+   <elementGuidId>e2db54cf-d90c-4c1b-b49d-ebe2628fab24</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='gdpr-banner-accept']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#gdpr-banner-accept</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ca97d463-4c01-4559-883a-eb1b7f087e54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>gdpr-banner-accept</value>
+      <webElementGuid>b278cf4d-d4bb-4dc6-928f-63dfd8aa0eb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Privacyvoorwaarden en instellingen accepteren</value>
+      <webElementGuid>cc92d5b7-c284-457d-8549-bfb00d69cb0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Alles accepteren</value>
+      <webElementGuid>f3b71b90-547e-41e6-8568-662d070175e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gdpr-banner-accept&quot;)</value>
+      <webElementGuid>f3f5a782-f887-4303-83f5-d6d6013c2f0f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='gdpr-banner-accept']</value>
+      <webElementGuid>a0dc33af-bf3c-4496-b508-b86c9f78ad3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gdpr-banner']/div[2]/div[2]/button[2]</value>
+      <webElementGuid>b5899428-bf4a-4130-919b-069862aa0f63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alles weigeren'])[1]/following::button[1]</value>
+      <webElementGuid>d96cf4ed-15db-4b59-a883-ebb1684c060e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mijn keuzes aanpassen'])[1]/following::button[2]</value>
+      <webElementGuid>b62bc176-53b9-4254-a9c6-3489ccaddc4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::button[1]</value>
+      <webElementGuid>43bd1cbf-bc33-44b1-803e-df70edc162ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Opgeslagen'])[1]/preceding::button[1]</value>
+      <webElementGuid>7161568e-ca97-4546-a068-54e5eee4b217</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Alles accepteren']/parent::*</value>
+      <webElementGuid>fbcf5e71-f144-4f37-b5aa-a33725750087</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>926b4430-93f3-441a-bb4c-07b08ba9e11c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'gdpr-banner-accept' and (text() = 'Alles accepteren' or . = 'Alles accepteren')]</value>
+      <webElementGuid>42bdddc5-9c27-4642-8d37-5873744290e0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

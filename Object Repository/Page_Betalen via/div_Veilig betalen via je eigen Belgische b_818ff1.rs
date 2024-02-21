@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Veilig betalen via je eigen Belgische b_818ff1</name>
+   <tag></tag>
+   <elementGuidId>29190e32-4309-4bb2-8d75-aa70d135c402</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='radix-4']/div[2]/ul/li/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.list__ghost-click</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7a1cc338-200e-40ff-9729-6f3891b015c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list__ghost-click</value>
+      <webElementGuid>1e91c556-4c43-4b09-8516-117ff233b482</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;radix-4&quot;)/div[@class=&quot;c-iFiWDy&quot;]/ul[@class=&quot;list  list--clickable&quot;]/li[@class=&quot;list__item&quot;]/div[@class=&quot;list__ghost-click&quot;]</value>
+      <webElementGuid>c16e87ef-8323-47a2-8b8a-37b174392bee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='radix-4']/div[2]/ul/li/div[2]</value>
+      <webElementGuid>bde384d1-684e-41fc-a62f-5e10dc0b3164</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/ul/li/div[2]</value>
+      <webElementGuid>118bae54-29b1-4d0b-abb1-6fef1ead7c60</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

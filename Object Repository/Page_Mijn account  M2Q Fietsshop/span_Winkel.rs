@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>2a0cb794-cd8d-48ba-8d1e-55a60446a5ec</webElementGuid>
+      <webElementGuid>7a72c132-1f59-40ef-8d53-cfb29bf3af18</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>menu-item-title-wrap</value>
-      <webElementGuid>57886684-dde6-4ca7-9bec-cd073bfd8f9d</webElementGuid>
+      <webElementGuid>ba51c6ea-c86c-4a54-934a-c1b6f8bea4c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Winkel</value>
-      <webElementGuid>c85d4bc1-2cc8-46b3-a339-4af4382ca13c</webElementGuid>
+      <webElementGuid>511520f5-eecf-4a68-aeec-87c735706913</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;menu-item-168&quot;)/a[1]/span[@class=&quot;menu-item-title-wrap&quot;]</value>
-      <webElementGuid>a954278e-1622-4513-aa3f-dbb4c59d24b3</webElementGuid>
+      <webElementGuid>9e7471a0-02c7-4a35-8b31-4838fc7517f8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='menu-item-168']/a/span</value>
-      <webElementGuid>d39c930d-98ae-47ac-a231-21b49bfbd23c</webElementGuid>
+      <webElementGuid>60a87676-4f89-4009-8bf2-59ad1e9d512b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Startpagina'])[1]/following::span[1]</value>
-      <webElementGuid>7990433e-82a1-41fa-bbd6-18068b9068cc</webElementGuid>
+      <webElementGuid>ff61d7b2-b468-4430-966e-d584db822b45</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Spring naar de inhoud'])[1]/following::span[1]</value>
-      <webElementGuid>c0cd38fb-211b-4830-a136-b29dd2c6c277</webElementGuid>
+      <webElementGuid>a1844ea0-e34c-4b8a-9e33-a73431656020</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Winkelmand'])[1]/preceding::span[2]</value>
-      <webElementGuid>a214c3aa-f588-4262-8e2f-be8eb694725a</webElementGuid>
+      <webElementGuid>8e1e9ba9-f524-4c65-a961-e8d052265f92</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Afrekenen'])[1]/preceding::span[2]</value>
-      <webElementGuid>be1f1c9b-5725-46da-8ec8-753a2087f469</webElementGuid>
+      <webElementGuid>e245f17c-a9a3-4fcb-aa46-5b0141bba889</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Winkel']/parent::*</value>
-      <webElementGuid>7a4557c7-b234-41d4-823c-121c1a47c6ed</webElementGuid>
+      <webElementGuid>dd72bf8a-7524-421c-9a3b-8b4d4c1eab10</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span</value>
-      <webElementGuid>03e51e44-d211-4309-959e-976afe9e596c</webElementGuid>
+      <webElementGuid>b43f580f-1dcc-4410-8a21-20eb7a2d56a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Winkel' or . = 'Winkel')]</value>
-      <webElementGuid>423331b3-21fd-439e-839e-8df4a4b9cb83</webElementGuid>
+      <webElementGuid>044470f6-fc30-466f-a979-b266f98ae426</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
